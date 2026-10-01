@@ -75,7 +75,7 @@ Al abrir una [Issue](https://github.com/Spidermagi/BlasphemousChecklist/issues),
 - qué dice la checklist y qué pasó realmente en tu partida;
 - la zona del juego, si aplica.
 
-## 🙏 Créditos
+## 🤍 Créditos
 
 - **FlashDeLima**: autor de la guía [Ruta Detallada de Logros](https://steamcommunity.com/sharedfiles/filedetails/?id=3024119488) en Steam. La lista de coleccionables es de **GameInTheHole** (2023) y forma parte de esa guía, que además sirvió de referencia para las rutas y misiones.
 - **[MapGenie](https://mapgenie.io/blasphemous/maps/cvstodia)**: mapa interactivo de Cvstodia.
