@@ -7,7 +7,7 @@
 
 [![Probar la checklist](https://img.shields.io/badge/🏆_Probar_la_checklist-Blasphemous-8c1c13?style=for-the-badge)](https://spidermagi.github.io/BlasphemousChecklist/)
 
-![Captura de la checklist](docs/preview.png)
+![Preview de Blasphemous Checklist](docs/preview.png)
 
 *Hecho con cariño para el Penitente que busca redimir su alma y cuya penitencia es el silencio.* 🤍
 
