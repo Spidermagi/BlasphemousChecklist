@@ -1,2 +1,2 @@
 # BlasphemousChecklist
-Interactive web checklist for 100% completion of Blasphemous achievements and collectibles.
+Interactive web checklist to track 100% of Steam achievements and collectibles.
