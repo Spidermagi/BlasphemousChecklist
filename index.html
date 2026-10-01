@@ -415,8 +415,9 @@ COLL.forEach(l=>l.items.forEach((it,i)=>{
 
 function crender(){
   const box=document.getElementById("clist");
-  box.innerHTML="";
   const open=new Set([...box.querySelectorAll("details[open]")].map(d=>d.dataset.g));
+  const scrollY=window.scrollY;
+  box.innerHTML="";
   const groups={};
   CITEMS.forEach(it=>{
     if(chide && cstate[it.id]) return;
@@ -462,6 +463,7 @@ function crender(){
   const pct=Math.round(done/total*100);
   document.getElementById("cPct").textContent=pct+"%";
   document.getElementById("cBar").style.width=pct+"%";
+  window.scrollTo(0,scrollY);
 }
 document.querySelectorAll(".chip2").forEach(b=>b.addEventListener("click",()=>{
   document.querySelectorAll(".chip2").forEach(x=>x.setAttribute("aria-pressed","false"));
