@@ -83,6 +83,10 @@ Al abrir una [Issue](https://github.com/Spidermagi/BlasphemousChecklist/issues),
 - **Claude** (Anthropic): ayudó a escribir el código.
 - **The Game Kitchen** y **Team17**: creadores y distribuidora de *Blasphemous*.
 
+## 📄 Licencia
+
+El código de esta página está bajo la licencia [MIT](LICENSE). Quedan fuera de esa licencia el logo y los íconos de *Blasphemous*, la lista de coleccionables de GameInTheHole y cualquier otro material de terceros, que siguen perteneciendo a sus autores.
+
 ## ⚖️ Aviso legal
 
 Proyecto de fans, sin relación oficial con The Game Kitchen ni Team17. *Blasphemous*, su logo y los íconos de los logros pertenecen a sus respectivos dueños y se usan aquí solo con fines informativos. Si algún titular de derechos pide que se retiren, se retirarán.
